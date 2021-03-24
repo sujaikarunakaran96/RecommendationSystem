@@ -52,9 +52,4 @@ Alternating Least Squares Method
 •	For a new user who has neither has a history of purchase nor ratings, the popularity-based recommendation engine is used where the currently popular products are shown on the webpage. 
 •	Among the two collaborative filtering approaches, Matrix Factorization using the Alternative Least Square method yields lesser Root Mean Squared Error, Therefore Matrix Factorization with ALS is used as our final recommendation engine.
 •	Therefore, for product “ABQAIIBTTEKVM”, the below-mentioned products are recommended.
- 
-The below bar graph shows the distribution of each Rating score obtained from the algorithm:  
-5.	Team members Role/Contribution
-•	Ramnath Ramachandran: Performed the Alternate Least Square Matrix Factorization and contributed to the making of presentation and the report
-•	Sujai Karunakaran: Performed the Popularity method used for customer with no prior history of purchase or reviews and contributed to the making of presentation and the report
-•	Vaishnavii Ponnusamy Paramashivam: Performed the User Based Collaborative Filtering using the distance-based approach and contributed to the making of presentation and the report.
+
